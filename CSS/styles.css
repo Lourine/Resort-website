@@ -7,9 +7,9 @@ h2 {
   font-style: italic;
 }
 p{
-  font-family: sans-serif;
+  font-family: Gill Sans;
   font-size: medium;
-  color: white;
+
 }
 ol{
   line-height: 40 px;
@@ -25,5 +25,5 @@ ul{
 
 }
 html{
-  background-color: black;
+  background-color: bisque;
 }
